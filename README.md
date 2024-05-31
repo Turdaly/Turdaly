@@ -2,7 +2,7 @@
 I'm Yelnur, a passionate Frontend Developer with experience in building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ## Job
-Currently work at company verigram https://verigram.kz/
+Currently work at company [verigram](https://verigram.kz/ )
 
 ## 💼 Professional Skills
 * Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, Vue.js
