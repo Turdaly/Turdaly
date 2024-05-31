@@ -1,5 +1,5 @@
 # Turdaly Yelnur
-I'm Elnur, a passionate Frontend Developer with experience in building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm Yelnur, a passionate Frontend Developer with experience in building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ## Job
 Currently work at company verigram https://verigram.kz/
