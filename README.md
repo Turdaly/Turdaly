@@ -1,16 +1,18 @@
-## Hi there 👋
+# Turdaly Yelnur
+I'm Elnur, a passionate Frontend Developer with experience in building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-<!--
-**Turdaly/Turdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Job
+Currently work at company verigram https://verigram.kz/
 
-Here are some ideas to get you started:
+## 💼 Professional Skills
+* Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, Vue.js, React
+* State Management: Vuex, Pinia
+* ools & Platforms: Git, GitHub, Webpack, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Growth
+I'm continuously learning and currently diving deeper into advanced TypeScript and Vue 3 concepts to enhance my skillset and stay updated with the latest trends in web development
+
+## 📫 Contact Me
+* Telegram: [@yelnurturdaly](https://t.me/yelnurturdaly)
+Email: ent.elnur.tur@gmail.com
+Feel free to reach out for collaboration or any exciting project ideas!
