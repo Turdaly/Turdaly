@@ -10,7 +10,7 @@ Currently work at company [verigram](https://verigram.kz/ )
 * ools & Platforms: Git, GitHub, Gitlab Webpack, Vite
 
 ## 🌱 Learning & Growth
-I'm continuously learning and currently diving deeper into advanced TypeScript and Vue 3 concepts to enhance my skillset and stay updated with the latest trends in web development
+I'm continuously learning and currently diving deeper into advanced TypeScript and Nuxt concepts to enhance my skillset and stay updated with the latest trends in web development
 
 ## 📫 Contact Me
 * Telegram: [@yelnurturdaly](https://t.me/yelnurturdaly)
