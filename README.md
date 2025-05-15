@@ -5,9 +5,9 @@ I'm Yelnur, a passionate Frontend Developer with experience in building dynamic 
 Currently work at company [verigram](https://verigram.kz/ )
 
 ## 💼 Professional Skills
-* Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, Vue.js
-* State Management: Vuex, Pinia
-* ools & Platforms: Git, GitHub, Gitlab Webpack, Vite
+* Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, React, Tanstack Query
+* State Management: ContextAPI
+* tools & Platforms: Git, GitHub, Gitlab Webpack, Vite, Next
 
 ## 🌱 Learning & Growth
 I'm continuously learning and currently diving deeper into advanced TypeScript and Nuxt concepts to enhance my skillset and stay updated with the latest trends in web development
